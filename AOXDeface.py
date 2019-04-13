@@ -9,7 +9,7 @@ except ImportError:
 
 banner = """
  █████╗ ██╗  ██╗██████╗  Author : B4J1N64N T3RH0RM4T
-██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 20/¹0|2/02
+██╔══██╗╚██╗██╔╝██╔══██╗ Date   : 20/¹0|2⁴/02
 ███████║ ╚███╔╝ ██║  ██║ Tools  : aoXdeface N.0.O.B
 ██╔══██║ ██╔██╗ ██║  ██║ Github : /BajinganCyberArmy
 ██║  ██║██╔╝ ██╗██████╔╝ Contact : 0895360561400
