@@ -3,4 +3,4 @@ pip2 install requests
 pkg install git
 git clone https://github.com/BajinganCyberArmy/AOXDeface
 cd AOXDeface
-python2 aox.py
+python2 AOXDeface.py
